@@ -1,0 +1,17 @@
+{
+  "name": "sc-1-pt31",
+  "version": "1.0.0",
+  "description": "live coding practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "pt31",
+    "node"
+  ],
+  "author": "jthernandez999",
+  "license": "ISC"
+}
